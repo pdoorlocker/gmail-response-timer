@@ -28,6 +28,6 @@ User Rights
 - No data retention after extension removal
 
 Contact
-peter@peterdurlacher.com
+For privacy-related questions, please file an issue on our GitHub repository
 
 Last Updated: January 2024
